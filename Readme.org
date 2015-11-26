@@ -1,13 +1,12 @@
-#-*- mode: org; -*-
-#+DATE: 2015-09-28 22:55:02.663550
-#+TITLE: 大華嚴經略策
-#+PROPERTY: CBETA_ID T36n1737
-#+PROPERTY: ID KR6e0015
-#+PROPERTY: SOURCE Taisho Tripitaka Vol. 36, No. 1737
-#+PROPERTY: VOL 36
-#+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS T@JIA
+#+TITLE: 大華嚴經略策 / T@JIA
+#+DATE: 2015-11-26 14:09:44.028595
+* 版本
+ |     CBETA|【電子佛典集成】|
+ |         T|【大】     |
+ |    T@HARA|【大→原】   |
+ |     T@JIA|【大→甲】   |
 
-<pb:KR6e0015_T_000-0701b>¶
-
-[[file:KR6e0015_001.txt::001-0701b4][再刊華嚴略策序¶]]
+* 目次
+* [[file:KR6e0015_001.txt::001-0701b3][再刊華嚴略策序]]
+* 卷
+** [[file:KR6e0015_001.txt][大華嚴經略策 1]]
