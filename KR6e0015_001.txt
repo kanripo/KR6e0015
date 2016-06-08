@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:55:02.473926
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:11
 #+TITLE: 大華嚴經略策
 #+PROPERTY: CBETA_ID T36n1737
 #+PROPERTY: ID KR6e0015
@@ -12,7 +12,7 @@
 ¶
 No. 1737 [cf. No. 279]¶
 
-再刊華嚴略策序¶
+* 再刊華嚴略策序¶
 ¶
 
 大統國師嘗棲託清涼聖境著華嚴疏數百萬¶
