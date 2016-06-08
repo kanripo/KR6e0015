@@ -1,22 +1,18 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:55:02.253915
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:11
 #+TITLE: 大華嚴經略策
 #+PROPERTY: CBETA_ID T36n1737
 #+PROPERTY: ID KR6e0015
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 36, No. 1737
 #+PROPERTY: VOL 36
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6e0015_T_001-0701b> 
 #+PROPERTY: JUAN 1
 ¶
-No.1737[cf.No.279]¶
+No. 1737 [cf. No. 279]¶
 
-再刊華嚴略策序
-:PROPERTIES:
-:head: 再刊華嚴略策序
-:END:
-¶
+* 再刊華嚴略策序¶
 ¶
 
 大統國師嘗棲託清涼聖境著華嚴疏數百萬¶
@@ -40,8 +36,7 @@ No.1737[cf.No.279]¶
 瑜伽宗沙門謙順謹識¶
 ¶
 ¶
-
- 大華嚴經略策一卷(四十二條)¶
+大華嚴經略策一卷(四十二條)¶
 ¶
 清涼山大華嚴寺鎮國沙門澄觀述¶
 
@@ -429,7 +424,7 @@ No.1737[cf.No.279]¶
 三處。一迴向無上菩提。二迴向一切眾生。三¶
 迴向真如實際。前二為隨相迴向。後一為離¶
 相迴向。隨離不二事理齊修。悲智雙運則親¶
-能證入。言十地者一歡喜地二離垢地三發¶
+能證入。言十地者一歎喜地二離垢地三發¶
 光地四焰慧地五歡勝地六現前地七遠行地¶
 八不動地九善慧地十法雲地。然此十地由¶
 修十勝行斷十種障礙證十真如。故分十地¶
